@@ -41,6 +41,171 @@
         }
       },
       {
+        "HashCode": 1127372546,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Pages.Index",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -699818478,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Pages.Index",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PongPing.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2026228694,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Pages.GameStart",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GameStart"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Pages.GameStart"
+        }
+      },
+      {
+        "HashCode": 354775000,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Pages.GameStart",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PongPing.Pages.GameStart"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Pages.GameStart",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1051188500,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Pages.GamePage",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GamePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Pages.GamePage"
+        }
+      },
+      {
+        "HashCode": -477496068,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Pages.GamePage",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PongPing.Pages.GamePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Pages.GamePage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 845399287,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Shared.GameSet",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GameSet"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Shared.GameSet"
+        }
+      },
+      {
+        "HashCode": -277526042,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Shared.GameSet",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PongPing.Shared.GameSet"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Shared.GameSet",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1570557021,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Shared.LoginForm",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoginForm"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Shared.LoginForm"
+        }
+      },
+      {
+        "HashCode": -129056335,
+        "Kind": "Components.Component",
+        "Name": "PongPing.Shared.LoginForm",
+        "AssemblyName": "PongPing",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PongPing.Shared.LoginForm"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PongPing.Shared.LoginForm",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1202798231,
         "Kind": "Components.Component",
         "Name": "PongPing.Shared.MainLayout",
@@ -133,138 +298,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "PongPing.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 845399287,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Shared.GameSet",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GameSet"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Shared.GameSet"
-        }
-      },
-      {
-        "HashCode": -277526042,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Shared.GameSet",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PongPing.Shared.GameSet"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Shared.GameSet",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1570557021,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Shared.LoginForm",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LoginForm"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Shared.LoginForm"
-        }
-      },
-      {
-        "HashCode": -129056335,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Shared.LoginForm",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PongPing.Shared.LoginForm"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Shared.LoginForm",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2026228694,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Pages.GameStart",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GameStart"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Pages.GameStart"
-        }
-      },
-      {
-        "HashCode": 354775000,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Pages.GameStart",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PongPing.Pages.GameStart"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Pages.GameStart",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1127372546,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Pages.Index",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -699818478,
-        "Kind": "Components.Component",
-        "Name": "PongPing.Pages.Index",
-        "AssemblyName": "PongPing",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PongPing.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PongPing.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13608,6 +13641,11 @@
     {
       "FilePath": "/Users/ezizs/Desktop/BlazorApps/PongPing/Shared/GameSet.razor",
       "TargetPath": "Shared\\GameSet.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/ezizs/Desktop/BlazorApps/PongPing/Pages/GamePage.razor",
+      "TargetPath": "Pages\\GamePage.razor",
       "FileKind": "component"
     },
     {

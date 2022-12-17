@@ -1,5 +1,4 @@
-﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+﻿@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 * {
     padding: 0;
@@ -57,6 +56,7 @@ body{
 }
 
 .functional-btns div{
+    color: #E9E9E9;
     width: 400px;
     text-align: center;
     margin: 10px;
@@ -107,8 +107,8 @@ body{
 .login-btn {
     outline: none;
     cursor: pointer;
-    border: none;
-    background: none;
+    text-decoration: none;
+    text-align: center;
     color: #e9e9e9;
     width: 200px;
     border: 3px solid #242424;
@@ -123,4 +123,65 @@ body{
 .login-btn:hover, .functional-btns div:hover {
 
     border: 3px dashed #E9E9E9;
+}
+
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    color: #E9E9E9;
+}
+
+.leaderboard-section, .scores-section{
+    height: 100vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.leaderboard-container, .scores-container{
+    background-color: #4b4b4b;
+    width: 20vw;
+    height: 40vh;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 3px dashed #E9E9E9;
+    border-radius: 7px;
+}
+
+.game-section{
+    width: calc(100vw - 60vw);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-section h1{
+    font-size: 32px;
+    margin: 10px;
+}
+
+.game-field {
+    position: relative;
+    background-color: #4b4b4b;
+    width: 600px;
+    height: 600px;
+    border: 3px dashed #E9E9E9;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+
+.player {
+    position: absolute;
+    background-color: #b32121;
+    width: 120px;
+    height: 15px;
+    bottom: 10px;
+    left: 240px;
+    border-radius: 7px;
 }
