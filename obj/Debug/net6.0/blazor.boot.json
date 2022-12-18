@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-cx\/3nJhFns3tZhQNQOyiRyKJESKxOjLVufzWnri6KSA=",
       "netstandard.dll": "sha256-yWufW5W4SSfjocBcWTEDqnFwTd\/VYtLMc2Y9mPmlggc=",
       "System.Private.CoreLib.dll": "sha256-H009wzPwRoDZlwvpN4KLCsUwN7Y1AmjKB3PIEHA7ObQ=",
-      "PongPing.dll": "sha256-4x64aQJ5FVi\/9+MXYQtd2Js4UD01Qr289MNrAKI+zWI="
+      "PongPing.dll": "sha256-x7aUBNZ\/EJ+rt4L4TWt5Kh4je6yYDI5kmYcn5JLZo04="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "PongPing.pdb": "sha256-85VIWS+pmRtXmF7zZOVztbQJHe7CuBW3gn\/3vp9mbGk="
+      "PongPing.pdb": "sha256-GxYoj3WMRmh6Fu30Rxtc8booXj\/RvR\/CcNupkq0mzIU="
     },
     "runtime": {
       "dotnet.6.0.11.13lft0ssid.js": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",

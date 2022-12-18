@@ -4,30 +4,46 @@
 <div class="main-container">
     <section class="leaderboard-section">
         <p>LEADERBOARD</p>
-        <div class="leaderboard-container">
-            <p>Player 1: @score</p>
-        </div>
+        <ul class="leaderboard-container">
+            <li>@Player1.Name: 220</li>
+            <li>@Player2.Name: 200</li>
+        </ul>
     </section>
 
     <section class="game-section">
         <h1>PONGPING</h1>
         <div class="game-field">
-            <div class="player"></div>
+            <span class="ball"></span>
+            <span class="player"></span>
+            
         </div>
         <h3>not a usual pingpong</h3>
     </section>
 
     <section class="scores-section">
         <p>Scores</p>
-        <div class="scores-container">
-            <p>Player 1: @score</p>
-        </div>
+        <ul class="scores-container">
+            <li>@Player1.Name: 220</li>
+            <li>@Player2.Name: 200</li>
+        </ul>
     </section>
 </div>
 
 @code
 {
-    public int score = 220;
 
-    
+    public Player Player1 = new Player()
+    {
+        Name = "John"
+    };
+
+    public Player Player2 = new Player()
+    {
+        Name = "Smith"
+    };
+
+    public Ball Ball = new Ball()
+    {
+        Speed = 5
+    };
 }
